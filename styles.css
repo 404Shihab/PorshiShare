@@ -1,9 +1,5 @@
-/*
-  NeighborRent shared styles
-  --------------------------
-  This SCSS file contains the visual system, shared layout primitives,
-  and page-specific styles used by every standalone HTML page.
-*/
+
+
 :root {
   --green: #1a7a52;
   --green-light: #e8f5ef;
@@ -30,6 +26,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: "Poppins", sans-serif;
 }
 
 body {
